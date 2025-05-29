@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Front-End focado em React e React Native</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viniciusmelo&label=Visualizações&color=0e75b6&style=flat" alt="viniciusmelo" />
+  <img src="https://komarev.com/ghpvc/?username=ViniMelo-web-dev&label=Visualizações&color=0e75b6&style=flat" alt="viniciusmelo" />
 </p>
 
 ---
