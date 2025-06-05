@@ -33,10 +33,11 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-  <img height="180" style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=ViniMelo-web-dev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180" margin-left='10px' style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMelo-web-dev&layout=compact&langs_count=8&theme=tokyonight" />
+<div style="display: flex; gap: 16px; width: 100%;">
+  <img height="180" style="flex: 1; min-width: 0;" src="https://github-readme-stats.vercel.app/api?username=ViniMelo-web-dev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180" style="flex: 1; min-width: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMelo-web-dev&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
+
 ---
 
 ### 🌐 Onde me encontrar:
