@@ -1,22 +1,22 @@
-<h1 align="center">Olá 👋, eu sou Vinicius Melo</h1>
-<h3 align="center">Desenvolvedor Front-End focado em React e React Native</h3>
+<h1 align="center">Hello 👋, I'm Vinicius Melo</h1>
+<h3 align="center">Front-End Developer focused on React and React Native</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ViniMelo-web-dev&label=Visualizações&color=0e75b6&style=flat" alt="viniciusmelo" />
+  <img src="https://komarev.com/ghpvc/?username=ViniMelo-web-dev&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusmelo" />
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About Me
 
-- 👨‍💻 Atualmente atuo como **Desenvolvedor Front-End**
-- 🌱 Estou aprendendo e me aprofundando em **React/React Native, Vue.js, Design 3D**
-- 🎯 Apaixonado por transformar ideias em interfaces intuitivas, funcionais e criativas
-- ⚡ Curiosidades: Amo tecnologia, Design3D e estou sempre em busca de novos desafios
+- 👨‍💻 Currently working as a **Front-End Developer**
+- 🌱 I'm learning and diving deeper into **React/React Native, Vue.js, 3D Design**
+- 🎯 Passionate about turning ideas into intuitive, functional, and creative interfaces
+- ⚡ Fun facts: I love technology, 3D Design, and I'm always looking for new challenges
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas que uso:
+### 🛠️ Technologies and Tools I use:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -40,10 +40,10 @@
 
 ---
 
-### 🌐 Onde me encontrar:
+### 🌐 Where to find me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-melo-1748b9214/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://seuportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://seuportfolio.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vini_meloow/?locale=us&hl=am-et)
 
 ---
