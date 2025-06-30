@@ -10,9 +10,9 @@
 ### 🚀 About Me
 
 - 👨‍💻 Currently working as a **Front-End Developer**
-- 🌱 I'm learning and diving deeper into **React/React Native, Vue.js, 3D Design**
+- 🌱 I'm learning and diving deeper into **React/React Native, Vue.js, 3D Design with Three.js and Blender**
 - 🎯 Passionate about turning ideas into intuitive, functional, and creative interfaces
-- ⚡ Fun facts: I love technology, 3D Design, and I'm always looking for new challenges
+- ⚡ Fun facts: I love technology, 3D Design (Three.js + Blender), and I'm always looking for new challenges
 
 ---
 
@@ -27,6 +27,8 @@
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Three.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
+  <img align="center" alt="Blender" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
 </div>
 
 ---
